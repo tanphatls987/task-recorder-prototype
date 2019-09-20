@@ -16,4 +16,4 @@ This app was create for multi-flatform according to wxWidget standards. However,
 # Usage
 This app required wxWidget version 3.0.4 or later.
 
-For Linux, run $make inside Resource folder to generate TaskRecorder.
+For Linux, run $make inside Source folder to generate TaskRecorder.
